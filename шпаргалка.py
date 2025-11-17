@@ -10,3 +10,6 @@
 # этого коммита
 #git branch -показать все ветки
 #git branch <имя новой ветки> -создание новой ветки
+# git remote add origin https://github.com/AlexeyAP-create/Python.git - соединяет локальный репозиторий с удаленным
+# git branch -M main - переименовывает главную ветку master в main
+# git push -u origin main - загружает данные с локального репозитория на удаленный
